@@ -21,6 +21,7 @@ AI-powered daily intelligence for indie hackers and builders.
 
 | Date | Top signal |
 |------|------------|
+| [Apr 15](en/2026/2026-04-15.md) | A buyer paid six figures for 30 WordPress plugins and planted… |
 
 [Full archive →](en/)
 
@@ -42,6 +43,7 @@ AI-powered daily intelligence for indie hackers and builders.
 
 | 日期 | 头条信号 |
 |------|----------|
+| [4月15日](zh/2026/2026-04-15.md) | 一名买家花六位数购入 30 个 WordPress… |
 
 [完整归档 →](zh/)
 
@@ -51,4 +53,4 @@ AI-powered daily intelligence for indie hackers and builders.
 
 Sources: Hacker News · GitHub Trending · Product Hunt · HuggingFace · Google Trends · Reddit
 
-Built by [@liuxiaopai-ai](https://github.com/liuxiaopai-ai)
+Built by [Liu Xiaopai (刘小排)](https://github.com/liuxiaopai-ai) · [𝕏 @bourneliu66](https://x.com/bourneliu66)
