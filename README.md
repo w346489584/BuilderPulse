@@ -26,6 +26,8 @@ _What should you build today?_
 | Date | Top signal |
 |------|------------|
 | [Apr 15](en/2026/2026-04-15.md) | WordPress supply chain attack: someone bought 30 plugins on Flippa for six figures… |
+| [Apr 14](en/2026/2026-04-14.md) | A single developer runs multiple $10K MRR companies on a $20/month tech stack … |
+| [Apr 13](en/2026/2026-04-13.md) | AI Agent framework explosion — hermes-agent topped GitHub with 38,426 stars in a single week… |
 
 [Full archive →](en/)
 
@@ -53,6 +55,8 @@ _What should you build today?_
 | 日期 | 头条信号 |
 |------|----------|
 | [4月15日](zh/2026/2026-04-15.md) | WordPress 供应链攻击：有人在 Flippa 以六位数购买了 30 个插件，利用以太坊智能合约植入后门，实现无法追踪的命令与控制 |
+| [4月14日](zh/2026/2026-04-14.md) | 一位独立开发者用每月 $20 的技术栈同时运营多家月收入 $10K 的公司——VC 不断拒绝他，因为他根本不需要融资 |
+| [4月13日](zh/2026/2026-04-13.md) |  |
 
 [完整归档 →](zh/)
 
