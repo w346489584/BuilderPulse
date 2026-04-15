@@ -11,9 +11,9 @@ AI-powered daily intelligence for indie hackers and builders.
 
 ## <a id="english"></a>📌 Latest: April 15, 2026
 
-> 1. A buyer paid six figures for 30 WordPress plugins and planted backdoors in all of them — the malware used Ethereum smart contracts for command-and-control, making traditional domain takedowns useless (1,101 points, 313 comments on Hacker News).
-> 2. GitHub officially launches Stacked PRs while Google search interest in "claude managed agents" explodes +3,050% — the AI-native developer workflow era is arriving from multiple directions simultaneously.
-> 3. boringBar went from subscription pricing to a $40 perpetual license in real-time during its Hacker News launch (510 points) after community feedback — the fastest product pivot observed this year.
+> 1. WordPress supply chain attack: someone bought 30 plugins on Flippa for six figures, planted backdoors using Ethereum smart contracts for untraceable command-and-control
+> 2. Backblaze silently stopped backing up cloud-synced folders — users are discovering unrecoverable data loss during actual restore attempts
+> 3. "Claude managed agents" is the fastest-rising search term this week (Breakout from zero), validated across Hacker News, GitHub Trending, and Google Trends
 
 👉 **[Read today's report →](en/2026/2026-04-15.md)**
 
@@ -21,7 +21,7 @@ AI-powered daily intelligence for indie hackers and builders.
 
 | Date | Top signal |
 |------|------------|
-| [Apr 15](en/2026/2026-04-15.md) | A buyer paid six figures for 30 WordPress plugins and planted… |
+| [Apr 15](en/2026/2026-04-15.md) | WordPress supply chain attack: someone bought 30 plugins on Flippa… |
 
 [Full archive →](en/)
 
@@ -33,9 +33,9 @@ AI-powered daily intelligence for indie hackers and builders.
 
 ### 📌 最新: 2026 年 4 月 15 日
 
-> 1. 一名买家花六位数购入 30 个 WordPress 插件，并在所有插件中植入后门——恶意软件通过以太坊智能合约实现命令与控制，使传统域名封锁完全失效（Hacker News 1,101 分，313 条评论）。
-> 2. GitHub 正式推出 Stacked PRs，与此同时 Google 搜索中 "claude managed agents" 的热度暴增 +3,050%——AI 原生开发者工作流时代正从多个方向同步到来。
-> 3. boringBar 在 Hacker News 发布（510 分）后，因社区反馈在发布过程中实时将订阅定价切换为 $40 永久授权——这是今年观察到的速度最快的产品定价转型。
+> 1. WordPress 供应链攻击：有人在 Flippa 以六位数购买了 30 个插件，利用以太坊智能合约植入后门，实现无法追踪的命令与控制
+> 2. Backblaze 悄然停止备份云同步文件夹——用户在实际恢复数据时才发现无法挽回的数据丢失
+> 3. "Claude managed agents" 是本周增长最快的搜索词（从零突破），已在 Hacker News、GitHub Trending 和 Google Trends 三平台获得验证
 
 👉 **[阅读今日报告 →](zh/2026/2026-04-15.md)**
 
@@ -43,7 +43,7 @@ AI-powered daily intelligence for indie hackers and builders.
 
 | 日期 | 头条信号 |
 |------|----------|
-| [4月15日](zh/2026/2026-04-15.md) | 一名买家花六位数购入 30 个 WordPress… |
+| [4月15日](zh/2026/2026-04-15.md) | WordPress 供应链攻击：有人在 Flippa 以六位数购买了 30… |
 
 [完整归档 →](zh/)
 
