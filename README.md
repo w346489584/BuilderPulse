@@ -7,11 +7,11 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build — April 19, 2026
+## <a id="english"></a>💡 Today's build · Apr 19
 
-> **build a static page that estimates your closest Hetzner server, monthly savings, and migration risk checklist**
+> **build a static cloud-exit calculator matching your AWS/DO bill to the cheapest Hetzner dedicated server**
 
-**Why it matters now:** DigitalOcean→Hetzner migration cuts $14K/year, Claude 4.7 tokenizer costs 1.47x vs stated 1.35x, "refusing AI" essays outrank AI adoption on HN.
+**Why now:** The 678-point Hetzner migration thread is live today, 350 commenters are naming their own cloud bills, and no savings calculator exists yet
 
 <p align="center">
 
@@ -22,23 +22,23 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 19](en/2026/2026-04-19.md)**: One Turkish founder's 678-point Hetzner post saves $14,388 a year — will your CloudExit calculator catch the second wave?
-- **[Apr 18](en/2026/2026-04-18.md)**: 560 HN devs proved Claude 4.7 burns tokens — the cost counter doesn't exist yet
-- **[Apr 17](en/2026/2026-04-17.md)**: One sleeping dev racked up €54,000 in 13 hours — who builds the tripwire?
-- **[Apr 16](en/2026/2026-04-16.md)**: Replace $400/month pain with a $10 VPS — will this CRUD app kill Sendible?
-- **[Apr 15](en/2026/2026-04-15.md)**: Backblaze silently excluded your files — 611 users found out too late to recover
-- **[Apr 14](en/2026/2026-04-14.md)**: 14,317 devs starred a single CLAUDE.md file — the marketplace nobody built yet
-- **[Apr 13](en/2026/2026-04-13.md)**: hermes-agent hit 38,426 stars in a week — but nobody owns the comparison article yet
+- **[Apr 19](en/2026/2026-04-19.md)**: 678 HN points, $14,388 saved — the DigitalOcean exit calculator doesn't exist yet
+- **[Apr 18](en/2026/2026-04-18.md)**: 560 HN devs are benchmarking Claude costs — but nobody built the comparison tool yet
+- **[Apr 17](en/2026/2026-04-17.md)**: €54,000 Firebase bill in 13 hours — and no cloud will warn you next time
+- **[Apr 16](en/2026/2026-04-16.md)**: Agency owners pay $400/month for a CRUD app — who builds the $10 alternative first?
+- **[Apr 15](en/2026/2026-04-15.md)**: 611 users found Backblaze wasn't backing up their files — who ships the audit tool?
+- **[Apr 14](en/2026/2026-04-14.md)**: A single CLAUDE.md file hit 14,317 GitHub stars — and the discovery layer still doesn't exist.
+- **[Apr 13](en/2026/2026-04-13.md)**: 2-hour build idea from this report: a one-page AI agent framework comparison article, validated by 38,426 hermes-agent stars but zero comparison guides ranking on Google.
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 — 2026 年 4 月 19 日
+## <a id="chinese"></a>💡 今日建议 · 4月19日
 
-> **做一个接受云服务器规格或账单并对比推荐最近似 Hetzner 专用服务器及费用差额的计算器页面**
+> **做一个云账单迁移Hetzner省钱计算器**
 
-**为什么是现在:** DigitalOcean → Hetzner 迁移年省 $14,388、Claude 4.7 tokenizer 实测膨胀达 1.47 倍、"拒绝 AI"帖首次在 HN 排名超越"拥抱 AI"
+**为什么是现在:** 678分帖今日顶HN，评论里无人发布过这个计算器
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月19日](zh/2026/2026-04-19.md)**: 678分帖年省$14388，这个计算器还没人做
-- **[4月18日](zh/2026/2026-04-18.md)**: 560赞求解AI账单，有人出手了
-- **[4月17日](zh/2026/2026-04-17.md)**: 一觉醒来€54K消失，你的熔断器呢
-- **[4月16日](zh/2026/2026-04-16.md)**: $400月费痛点，开源排程工具谁先截胡
-- **[4月15日](zh/2026/2026-04-15.md)**: Backblaze悄悄漏备，611人怒等审计工具问世
-- **[4月14日](zh/2026/2026-04-14.md)**: 一个CLAUDE.md卷走14317星，发现层等你来
-- **[4月13日](zh/2026/2026-04-13.md)**: 38426 星框架横空出世，对比文章等你来写
+- **[4月19日](zh/2026/2026-04-19.md)**: 678分迁移帖年省$14K，算账工具还没人做
+- **[4月18日](zh/2026/2026-04-18.md)**: 560赞在骂AI烧钱，你来不来
+- **[4月17日](zh/2026/2026-04-17.md)**: 一觉醒来账单€54K，熔断器谁在做
+- **[4月16日](zh/2026/2026-04-16.md)**: 男友偷偷替代$400排程工具，真有人付吗
+- **[4月15日](zh/2026/2026-04-15.md)**: 611人备份丢了，2小时能接盘吗
+- **[4月14日](zh/2026/2026-04-14.md)**: 14K星验证了需求，市场没人做
+- **[4月13日](zh/2026/2026-04-13.md)**: 暴涨3750%，框架对比没人写
 
 [完整归档 →](zh/)
 
