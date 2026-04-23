@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · Apr 23
 
-> **build a pre-commit hook and GitHub Action that scores diffs for scope creep against the task description**
+> **build a CLI tool that scores Git diff hunks against a prompt to flag out-of-scope AI edits**
 
-**Why now:** Today's 285-point HN post coined "over-editing" as a defect category and 170 commenters are already asking where the scoring tool is
+**Why now:** @nrehiew's over-editing research just hit 321 HN points today, creating a live distribution channel of developers already debating the exact problem ScopeGuard solves
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 23](en/2026/2026-04-23.md)**: 285 HN points named AI over-editing — zero tools exist to catch it yet
-- **[Apr 22](en/2026/2026-04-22.md)**: Anthropic moved Claude Code behind a $100 wall — 420 comments and still no migration CLI
-- **[Apr 21](en/2026/2026-04-21.md)**: The $29 tool that could end GitHub's fake star economy doesn't exist yet
-- **[Apr 20](en/2026/2026-04-20.md)**: 828 HN points say your forgotten OAuth grant is the next Vercel breach
-- **[Apr 19](en/2026/2026-04-19.md)**: 678 HN points found $14,388 in cloud savings — no one built the calculator yet
-- **[Apr 18](en/2026/2026-04-18.md)**: 560 developers asked what AI really costs — nobody shipped the answer yet
-- **[Apr 17](en/2026/2026-04-17.md)**: A €54,000 overnight Gemini bill — and the 2-hour fix no cloud will ship
+- **[Apr 23](en/2026/2026-04-23.md)**: 321 HN points proved AI rewrites your code — can a 2-hour build stop it?
+- **[Apr 22](en/2026/2026-04-22.md)**: Claude Code just jumped to $100 — and the migration tool is still unclaimed
+- **[Apr 21](en/2026/2026-04-21.md)**: The 754-point fake-star exposé is live — the credibility scorer that follows it isn't
+- **[Apr 20](en/2026/2026-04-20.md)**: Vercel's 609-point breach exposed the OAuth app you forgot — yours is next
+- **[Apr 19](en/2026/2026-04-19.md)**: 678 HN founders want a cloud exit calculator — nobody has built it yet
+- **[Apr 18](en/2026/2026-04-18.md)**: 560 HN developers demand a neutral AI cost tool — and none exists yet
+- **[Apr 17](en/2026/2026-04-17.md)**: €54,000 in 13 hours — the 2-hour build Google and Anthropic won't ship
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 4月23日
 
-> **做一个 pre-commit hook，对比任务描述与 diff 范围，检测并阻止 AI 过度编辑代码的工具**
+> **做一个检测 AI 编程智能体 diff 是否超出提示范围的 CLI 工具**
 
-**为什么是现在:** over-editing 缺陷命名帖今天刚拿到285分，评论区正在问工具在哪
+**为什么是现在:** 过度编辑研究今获321分，买家在评论区自我识别
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月23日](zh/2026/2026-04-23.md)**: 285分帖命名AI乱改，谁先做守门人
-- **[4月22日](zh/2026/2026-04-22.md)**: Anthropic 踢走 Claude Code，420 评论等那个工具
-- **[4月21日](zh/2026/2026-04-21.md)**: 600万假star，揭穿者未至
-- **[4月20日](zh/2026/2026-04-20.md)**: Vercel 609票遭攻破，你三年前的OAuth还在呼吸
-- **[4月19日](zh/2026/2026-04-19.md)**: 678分帖背后，计算器还没人做
-- **[4月18日](zh/2026/2026-04-18.md)**: 560赞帖等人测出AI账单真相
-- **[4月17日](zh/2026/2026-04-17.md)**: 账单€54000一夜烧完，跨云熔断器等你填坑
+- **[4月23日](zh/2026/2026-04-23.md)**: AI过度编辑，321分求工具
+- **[4月22日](zh/2026/2026-04-22.md)**: Claude被踢出Pro，413点等迁移神器现身
+- **[4月21日](zh/2026/2026-04-21.md)**: 600万假star待揭穿，先发者通吃
+- **[4月20日](zh/2026/2026-04-20.md)**: Vercel 609赞漏洞盯上OAuth，你的僵尸授权倒计时
+- **[4月19日](zh/2026/2026-04-19.md)**: 每年省$14388无人建计算器
+- **[4月18日](zh/2026/2026-04-18.md)**: 560赞追问AI账单黑洞，你来填吗
+- **[4月17日](zh/2026/2026-04-17.md)**: 一觉醒来€54K账单，$9熔断器谁先上线
 
 [完整归档 →](zh/)
 
