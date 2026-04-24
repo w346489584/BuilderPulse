@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · Apr 24
 
-> **build a local agent-skill risk scanner**
+> **build a CLI and GitHub Action that scans workflow files for unpinned actions and broad token permissions, outputting a patchable checklist**
 
-**Why now:** Bitwarden CLI hit 748 HN points while three agent-governance launches shipped in the same 24-hour window
+**Why now:** The Bitwarden CLI compromise hit 756 HN points today, proving 10 million users are actively scrambling to audit GitHub Actions workflows — exactly what ActionPin scans.
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 24](en/2026/2026-04-24.md)**: Bitwarden hit 748 HN points — agent skills need a guardrail
-- **[Apr 23](en/2026/2026-04-23.md)**: 321 upvotes confirmed AI over-editing is real — will a 150-line CLI actually catch it?
-- **[Apr 22](en/2026/2026-04-22.md)**: 420 comments demand a Claude Code exit — this 2-hour CLI already has one
-- **[Apr 21](en/2026/2026-04-21.md)**: Fake GitHub stars sell for $0.06 each — build the detector before GitHub does
-- **[Apr 20](en/2026/2026-04-20.md)**: 609 HN engineers just found Vercel's OAuth vulnerability — yours is probably still open
-- **[Apr 19](en/2026/2026-04-19.md)**: 678 HN readers proved $14,388 in savings — and nobody built the calculator yet
-- **[Apr 18](en/2026/2026-04-18.md)**: 560 HN points confirmed AI cost blindness — the two-hour build window closes Monday
+- **[Apr 24](en/2026/2026-04-24.md)**: Bitwarden's 756-point breach has a 2-hour scanner fix — nobody shipped it yet
+- **[Apr 23](en/2026/2026-04-23.md)**: 321 developers documented AI over-editing their code — the 2-hour fix is still unclaimed
+- **[Apr 22](en/2026/2026-04-22.md)**: Anthropic pulled Claude Code from $20 plans — your 2-hour CLI has a 72-hour window
+- **[Apr 21](en/2026/2026-04-21.md)**: 754 HN points proved GitHub stars are fake — who builds the scorer first?
+- **[Apr 20](en/2026/2026-04-20.md)**: 609 HN points on Vercel's OAuth breach — your forgotten grants are still open
+- **[Apr 19](en/2026/2026-04-19.md)**: One static page calculates your cloud-exit savings — 678 HN points demand it, but nobody built it yet.
+- **[Apr 18](en/2026/2026-04-18.md)**: 560 HN developers admit they're guessing their AI spend — 2 hours could change that
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 4月24日
 
-> **做一个本地 agent skill 风险扫描器**
+> **做一个扫描 GitHub Actions workflow 文件中安全风险并输出可修补 checklist 的 CLI 工具**
 
-**为什么是现在:** Bitwarden CLI 748 分，三个 agent 治理产品同日上线
+**为什么是现在:** Bitwarden供应链攻击今天获756 HN赞，开发者正在峰值焦虑中急需扫描工具
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月24日](zh/2026/2026-04-24.md)**: Bitwarden 748 分，agent skill 风险浮出水面
-- **[4月23日](zh/2026/2026-04-23.md)**: 321分验证AI改多了，守门工具谁先抢
-- **[4月22日](zh/2026/2026-04-22.md)**: 420条评论等迁移工具，你先来
-- **[4月21日](zh/2026/2026-04-21.md)**: 600万假star今日曝光，工具位置还空着
-- **[4月20日](zh/2026/2026-04-20.md)**: Vercel 609赞入侵，你三年前的OAuth还活着
-- **[4月19日](zh/2026/2026-04-19.md)**: 678分HN帖催生CloudExit，空档没人抢
-- **[4月18日](zh/2026/2026-04-18.md)**: 560人追问AI成本，答案藏在60行里
+- **[4月24日](zh/2026/2026-04-24.md)**: Bitwarden 756分被黑，你的CI已在排队
+- **[4月23日](zh/2026/2026-04-23.md)**: AI过度编辑321分告急，两小时缺口等谁
+- **[4月22日](zh/2026/2026-04-22.md)**: 413怒评，迁移工具等谁来做
+- **[4月21日](zh/2026/2026-04-21.md)**: 600万假star曝光，你的仓库排第几
+- **[4月20日](zh/2026/2026-04-20.md)**: 609赞Vercel遭黑，你的OAuth僵尸还活着
+- **[4月19日](zh/2026/2026-04-19.md)**: 678分爆帖背后，那个缺口还没人补
+- **[4月18日](zh/2026/2026-04-18.md)**: 560赞成本黑洞，60行代码破局在即
 
 [完整归档 →](zh/)
 
