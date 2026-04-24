@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · Apr 24
 
-> **build a CLI that verifies agent-generated code diffs for hallucinated imports and compromised packages**
+> **build a local agent-skill risk scanner**
 
-**Why now:** GPT-5.5 launched today with an 86% hallucination rate, flooding PR queues with untrustworthy agent diffs before any verification tooling exists to catch them
+**Why now:** Bitwarden CLI hit 748 HN points while three agent-governance launches shipped in the same 24-hour window
 
 <p align="center">
 
@@ -22,7 +22,7 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 24](en/2026/2026-04-24.md)**: GPT-5.5 hallucinates at 86% — but who ships the $19 verifier first?
+- **[Apr 24](en/2026/2026-04-24.md)**: Bitwarden hit 748 HN points — agent skills need a guardrail
 - **[Apr 23](en/2026/2026-04-23.md)**: 321 upvotes confirmed AI over-editing is real — will a 150-line CLI actually catch it?
 - **[Apr 22](en/2026/2026-04-22.md)**: 420 comments demand a Claude Code exit — this 2-hour CLI already has one
 - **[Apr 21](en/2026/2026-04-21.md)**: Fake GitHub stars sell for $0.06 each — build the detector before GitHub does
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 4月24日
 
-> **做一个在 AI 代码合并前验证幻觉符号和被入侵包的 CLI 工具**
+> **做一个本地 agent skill 风险扫描器**
 
-**为什么是现在:** 886条HN评论里目标买家今天正在自我标识
+**为什么是现在:** Bitwarden CLI 748 分，三个 agent 治理产品同日上线
 
 <p align="center">
 
@@ -49,7 +49,7 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月24日](zh/2026/2026-04-24.md)**: 幻觉率 86% 的代码正在被合并，$19 的拦截工具还来得及吗
+- **[4月24日](zh/2026/2026-04-24.md)**: Bitwarden 748 分，agent skill 风险浮出水面
 - **[4月23日](zh/2026/2026-04-23.md)**: 321分验证AI改多了，守门工具谁先抢
 - **[4月22日](zh/2026/2026-04-22.md)**: 420条评论等迁移工具，你先来
 - **[4月21日](zh/2026/2026-04-21.md)**: 600万假star今日曝光，工具位置还空着
