@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · Apr 24
 
-> **build a CLI and GitHub Action that scans workflow files for unpinned actions and broad token permissions, outputting a patchable checklist**
+> **build a CLI and GitHub Action that audits workflows for unpinned actions, overbroad permissions, and agent-triggerable jobs exposing secrets**
 
-**Why now:** The Bitwarden CLI compromise hit 756 HN points today, proving 10 million users are actively scrambling to audit GitHub Actions workflows — exactly what ActionPin scans.
+**Why now:** The Bitwarden CLI compromise hit 756 Hacker News points today, meaning every team using password-manager CLIs in CI automation has an urgent secret-rotation question ActionPin can answer before the weekend
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 24](en/2026/2026-04-24.md)**: Bitwarden's 756-point breach has a 2-hour scanner fix — nobody shipped it yet
-- **[Apr 23](en/2026/2026-04-23.md)**: 321 developers documented AI over-editing their code — the 2-hour fix is still unclaimed
-- **[Apr 22](en/2026/2026-04-22.md)**: Anthropic pulled Claude Code from $20 plans — your 2-hour CLI has a 72-hour window
-- **[Apr 21](en/2026/2026-04-21.md)**: 754 HN points proved GitHub stars are fake — who builds the scorer first?
-- **[Apr 20](en/2026/2026-04-20.md)**: 609 HN points on Vercel's OAuth breach — your forgotten grants are still open
-- **[Apr 19](en/2026/2026-04-19.md)**: One static page calculates your cloud-exit savings — 678 HN points demand it, but nobody built it yet.
-- **[Apr 18](en/2026/2026-04-18.md)**: 560 HN developers admit they're guessing their AI spend — 2 hours could change that
+- **[Apr 24](en/2026/2026-04-24.md)**: 756 HN points say CI is compromised — the 2-hour fix nobody shipped yet
+- **[Apr 23](en/2026/2026-04-23.md)**: 321 developers exposed AI rewriting code beyond scope — nobody built the guard yet
+- **[Apr 22](en/2026/2026-04-22.md)**: 420 devs raged when Anthropic moved Claude Code to $100 — who ships the exit first
+- **[Apr 21](en/2026/2026-04-21.md)**: Fake GitHub stars sell for $0.06 — and VCs are still trusting the count
+- **[Apr 20](en/2026/2026-04-20.md)**: Rotating one leaked OAuth key costs $400 — how many do you have?
+- **[Apr 19](en/2026/2026-04-19.md)**: 678 HN founders want their cloud exit number — nobody built the calculator yet
+- **[Apr 18](en/2026/2026-04-18.md)**: 560 HN devs proved your AI bill is wrong — nobody's shipped the fix yet
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 4月24日
 
-> **做一个扫描 GitHub Actions workflow 文件中安全风险并输出可修补 checklist 的 CLI 工具**
+> **做一个扫描 GitHub Actions 配置、标记未固定 action 和权限过宽 workflow 的 CLI 审计工具**
 
-**为什么是现在:** Bitwarden供应链攻击今天获756 HN赞，开发者正在峰值焦虑中急需扫描工具
+**为什么是现在:** Bitwarden 入侵帖今天 HN 756 分，每个 CI 团队周一前都要轮换密钥
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月24日](zh/2026/2026-04-24.md)**: Bitwarden 756分被黑，你的CI已在排队
-- **[4月23日](zh/2026/2026-04-23.md)**: AI过度编辑321分告急，两小时缺口等谁
-- **[4月22日](zh/2026/2026-04-22.md)**: 413怒评，迁移工具等谁来做
-- **[4月21日](zh/2026/2026-04-21.md)**: 600万假star曝光，你的仓库排第几
-- **[4月20日](zh/2026/2026-04-20.md)**: 609赞Vercel遭黑，你的OAuth僵尸还活着
-- **[4月19日](zh/2026/2026-04-19.md)**: 678分爆帖背后，那个缺口还没人补
-- **[4月18日](zh/2026/2026-04-18.md)**: 560赞成本黑洞，60行代码破局在即
+- **[4月24日](zh/2026/2026-04-24.md)**: Bitwarden 供应链中招 756 分，ActionPin 两小时能守住 CI 吗
+- **[4月23日](zh/2026/2026-04-23.md)**: 321分揭开AI越界改码，工具谁先动手
+- **[4月22日](zh/2026/2026-04-22.md)**: 413点缺口今开，谁先出工具
+- **[4月21日](zh/2026/2026-04-21.md)**: 754分曝假星产业，先标者赢
+- **[4月20日](zh/2026/2026-04-20.md)**: Vercel 609赞遭攻，僵尸OAuth没人清
+- **[4月19日](zh/2026/2026-04-19.md)**: 678分迁移故事缺了一个计算器
+- **[4月18日](zh/2026/2026-04-18.md)**: AI 成本黑洞无人填，560 票谁先动手
 
 [完整归档 →](zh/)
 
