@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Apr 25
+## <a id="english"></a>💡 Today's build · Apr 26
 
-> **build a local CLI that audits Claude Code hooks, detecting stdout-only controls and wrong exit codes**
+> **build a local CLI or web page that reads USB port data and tells users if their adapter can actually reach 10 Gbps**
 
-**Why now:** The 916-point Anthropic quality thread primed demand, and today's stop-hook comments exposed the exact exit-code fix HookDoctor would verify.
+**Why now:** Geerling's $80 adapter story hit 544 HN points today, so the audience for PortTruth is live, reading, and asking exactly the question it answers
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-04-25.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-04-25.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-04-26.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-04-26.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 25](en/2026/2026-04-25.md)**: 916 HN points confirm Claude's stop hooks are broken — ship the fix first
-- **[Apr 24](en/2026/2026-04-24.md)**: Bitwarden CLI compromised 50K businesses — your GitHub Actions secrets might be next
-- **[Apr 23](en/2026/2026-04-23.md)**: 321-point HN thread exposed AI's silent code rewrites — and the fix takes 2 hours
-- **[Apr 22](en/2026/2026-04-22.md)**: 420 devs lost their Claude Code workflow — the 2-hour fix is still unclaimed
-- **[Apr 21](en/2026/2026-04-21.md)**: GitHub's fake star economy hit 754 HN points — nobody built the $29 scorer yet
-- **[Apr 20](en/2026/2026-04-20.md)**: Your workspace has 40 active OAuth grants — one just sank Vercel
-- **[Apr 19](en/2026/2026-04-19.md)**: 678 HN points validated $14,388 in savings — and nobody built the calculator yet
+- **[Apr 26](en/2026/2026-04-26.md)**: The $80 USB adapter earned 544 HN points — will your port actually deliver?
+- **[Apr 25](en/2026/2026-04-25.md)**: Claude is silently ignoring your stop hooks — 916 developers just found out
+- **[Apr 24](en/2026/2026-04-24.md)**: 756-point Bitwarden breach just exposed your CI secrets — no scanner exists yet
+- **[Apr 23](en/2026/2026-04-23.md)**: AI agents silently rewrite your diffs — 321 engineers measured the damage
+- **[Apr 22](en/2026/2026-04-22.md)**: 413 upvotes demand a Claude Code escape hatch that nobody has built yet
+- **[Apr 21](en/2026/2026-04-21.md)**: 6M fake GitHub stars exposed at $0.06 each — who builds the scanner first?
+- **[Apr 20](en/2026/2026-04-20.md)**: Vercel's OAuth breach hit 609 HN points — your forgotten grants may be next
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 4月25日
+## <a id="chinese"></a>💡 今日建议 · 4月26日
 
-> **做一个审计 Claude Code stop hooks 并打印 exit-code 修复方式的 CLI 工具**
+> **做一个检测本地 USB 端口和网卡是否真能跑满 10 Gbps 的工具**
 
-**为什么是现在:** hook讨论串78点，修复路径已公开，窗口正热
+**为什么是现在:** 544个HN点数说明市场教育已完成，今天分发最容易
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-04-25.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-04-25.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-04-26.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-04-26.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月25日](zh/2026/2026-04-25.md)**: Claude hook失效916点，2小时验证器藏着答案
-- **[4月24日](zh/2026/2026-04-24.md)**: Bitwarden 遭黑 756 分，你的 Actions 凭证还在裸奔
-- **[4月23日](zh/2026/2026-04-23.md)**: 321分研究暗藏2小时创业机会
-- **[4月22日](zh/2026/2026-04-22.md)**: 413 点 HN 怒火，KimiSwitch 接盘窗口还剩几天
-- **[4月21日](zh/2026/2026-04-21.md)**: 754分假star，鉴别器还没人做
-- **[4月20日](zh/2026/2026-04-20.md)**: Vercel 被黑 609 赞，两小时揪出你的 OAuth 僵尸
-- **[4月19日](zh/2026/2026-04-19.md)**: 678分帖的$14K，没人来做计算器
+- **[4月26日](zh/2026/2026-04-26.md)**: 544 赞，$80 网卡背后有个谜
+- **[4月25日](zh/2026/2026-04-25.md)**: 78点帖藏着hook修复的秘密
+- **[4月24日](zh/2026/2026-04-24.md)**: Bitwarden被黑756分，ActionPin能查出什么
+- **[4月23日](zh/2026/2026-04-23.md)**: 321分研究盯上AI越界改码，拦截器要出手了
+- **[4月22日](zh/2026/2026-04-22.md)**: 420条评论等CLI，谁先做
+- **[4月21日](zh/2026/2026-04-21.md)**: 600万假star已被记录，下一个是谁
+- **[4月20日](zh/2026/2026-04-20.md)**: OAuthTriage 120行揪出僵尸OAuth，你的工作区还有几个
 
 [完整归档 →](zh/)
 
