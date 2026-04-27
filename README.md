@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Apr 26
+## <a id="english"></a>💡 Today's build · Apr 27
 
-> **build a Markdown/Git audit tool that prunes agent-maintained wikis**
+> **build a local CLI that detects production database credentials and blocks destructive SQL commands until human confirms target**
 
-**Why now:** Wuphf hit 222 Show HN points while Tolaria hit 298 and "ai agent traps" rose +50%, so agent-knowledge cleanup has live demand
+**Why now:** A 443-point HN thread about an AI agent deleting production is live today, turning abstract agent-safety fear into a concrete, shared pain
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-04-26.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-04-26.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-04-27.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-04-27.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 26](en/2026/2026-04-26.md)**: Agent-maintained wikis hit 222 and 298 points — who keeps the knowledge trustworthy?
-- **[Apr 25](en/2026/2026-04-25.md)**: Claude is silently ignoring your stop hooks — 916 developers just found out
-- **[Apr 24](en/2026/2026-04-24.md)**: 756-point Bitwarden breach just exposed your CI secrets — no scanner exists yet
-- **[Apr 23](en/2026/2026-04-23.md)**: AI agents silently rewrite your diffs — 321 engineers measured the damage
-- **[Apr 22](en/2026/2026-04-22.md)**: 413 upvotes demand a Claude Code escape hatch that nobody has built yet
-- **[Apr 21](en/2026/2026-04-21.md)**: 6M fake GitHub stars exposed at $0.06 each — who builds the scanner first?
-- **[Apr 20](en/2026/2026-04-20.md)**: Vercel's OAuth breach hit 609 HN points — your forgotten grants may be next
+- **[Apr 27](en/2026/2026-04-27.md)**: 443 engineers watched an AI delete production — nobody shipped the guardrail yet
+- **[Apr 26](en/2026/2026-04-26.md)**: Tolaria's 298 HN points prove agent wikis are real — and quietly rotting
+- **[Apr 25](en/2026/2026-04-25.md)**: 916 HN users caught Claude ignoring stop hooks — the 2-hour fix ships today?
+- **[Apr 24](en/2026/2026-04-24.md)**: ActionPin is the 2-hour build 756 HN engineers needed before Bitwarden's CLI burned
+- **[Apr 23](en/2026/2026-04-23.md)**: 321 HN devs proved AI rewrites beyond scope — nobody shipped the fix yet
+- **[Apr 22](en/2026/2026-04-22.md)**: Claude Code just jumped to $100 — 420 HN engineers are already shipping the exit
+- **[Apr 21](en/2026/2026-04-21.md)**: 6M fake GitHub stars exposed — who ships the detector first?
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 4月26日
+## <a id="chinese"></a>💡 今日建议 · 4月27日
 
-> **做一个清理 agent 维护知识库的 Markdown/Git 审计工具**
+> **做一个检测生产数据库凭证并阻止 agent 执行破坏性 SQL 的本地 CLI 工具**
 
-**为什么是现在:** Wuphf 222 点、Tolaria 298 点，说明 agent 知识库清理需求正在出现
+**为什么是现在:** 443分的删库讨论说明团队正在第一次公开承认漏洞
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-04-26.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-04-26.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-04-27.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-04-27.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月26日](zh/2026/2026-04-26.md)**: Wuphf 222 点、Tolaria 298 点，agent 知识库谁来清理
-- **[4月25日](zh/2026/2026-04-25.md)**: 78点帖藏着hook修复的秘密
-- **[4月24日](zh/2026/2026-04-24.md)**: Bitwarden被黑756分，ActionPin能查出什么
-- **[4月23日](zh/2026/2026-04-23.md)**: 321分研究盯上AI越界改码，拦截器要出手了
-- **[4月22日](zh/2026/2026-04-22.md)**: 420条评论等CLI，谁先做
-- **[4月21日](zh/2026/2026-04-21.md)**: 600万假star已被记录，下一个是谁
-- **[4月20日](zh/2026/2026-04-20.md)**: OAuthTriage 120行揪出僵尸OAuth，你的工作区还有几个
+- **[4月27日](zh/2026/2026-04-27.md)**: 443分删库惨案后，这道门还开着
+- **[4月26日](zh/2026/2026-04-26.md)**: Wuphf 222点后，agent 改了哪页没人知道
+- **[4月25日](zh/2026/2026-04-25.md)**: 916点质量帖暗藏钩子黑洞
+- **[4月24日](zh/2026/2026-04-24.md)**: ActionPin两小时，756分漏洞还没完
+- **[4月23日](zh/2026/2026-04-23.md)**: 321分实证AI乱改，守门工具谁先到
+- **[4月22日](zh/2026/2026-04-22.md)**: 413点骂Anthropic砍Pro，KimiSwitch迁移窗口剩三天
+- **[4月21日](zh/2026/2026-04-21.md)**: 754分踢爆刷星黑市，工具窗口只剩两周
 
 [完整归档 →](zh/)
 
