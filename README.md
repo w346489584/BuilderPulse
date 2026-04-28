@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Apr 27
+## <a id="english"></a>💡 Today's build · Apr 28
 
-> **build a local CLI that detects production database credentials and blocks destructive SQL commands until human confirms target**
+> **build a local CLI that runs the same coding tasks through multiple AI setups and reports cost, pass rate, and network calls**
 
-**Why now:** A 545-point, 688-comment HN thread made agent production access a concrete operational risk today
+**Why now:** Copilot's 539-point billing thread signals that engineering teams now need receipts for wrapper cost before usage meters start running
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-04-27.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-04-27.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-04-28.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-04-28.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Apr 27](en/2026/2026-04-27.md)**: 688 engineers debated an AI deleting production — nobody shipped the guardrail yet
-- **[Apr 26](en/2026/2026-04-26.md)**: Tolaria's 298 HN points prove agent wikis are real — and quietly rotting
-- **[Apr 25](en/2026/2026-04-25.md)**: 916 HN users caught Claude ignoring stop hooks — the 2-hour fix ships today?
-- **[Apr 24](en/2026/2026-04-24.md)**: ActionPin is the 2-hour build 756 HN engineers needed before Bitwarden's CLI burned
-- **[Apr 23](en/2026/2026-04-23.md)**: 321 HN devs proved AI rewrites beyond scope — nobody shipped the fix yet
-- **[Apr 22](en/2026/2026-04-22.md)**: Claude Code just jumped to $100 — 420 HN engineers are already shipping the exit
-- **[Apr 21](en/2026/2026-04-21.md)**: 6M fake GitHub stars exposed — who ships the detector first?
+- **[Apr 28](en/2026/2026-04-28.md)**: 539 HN engineers proved the harness beats the model — yours is unmeasured
+- **[Apr 27](en/2026/2026-04-27.md)**: AI wiped prod — 545 HN points later, the 2-hour fix remains unbuilt
+- **[Apr 26](en/2026/2026-04-26.md)**: Tolaria hit 298 HN points — nobody built the 2-hour agent-wiki pruner yet
+- **[Apr 25](en/2026/2026-04-25.md)**: 916 HN points found Claude's broken hook — and a 2-hour fix nobody shipped yet
+- **[Apr 24](en/2026/2026-04-24.md)**: The Bitwarden CLI attack hit 756 HN points — your CI secrets may be next
+- **[Apr 23](en/2026/2026-04-23.md)**: 321 HN developers confirmed AI over-edits your code — and Anthropic won't fix it
+- **[Apr 22](en/2026/2026-04-22.md)**: 413 devs just told you what to build in 2 hours — nobody is listening
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 4月27日
+## <a id="chinese"></a>💡 今日建议 · 4月28日
 
-> **做一个检测生产数据库凭证并阻止 agent 执行破坏性 SQL 的本地 CLI 工具**
+> **做一个测量AI编程工具成本与行为的工具**
 
-**为什么是现在:** 545分、688条评论的删库事故让 agent 权限风险变成现实
+**为什么是现在:** Copilot 539点计费讨论今天落地，wrapper成本第一次有了账单压力
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-04-27.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-04-27.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-04-28.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-04-28.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[4月27日](zh/2026/2026-04-27.md)**: 688条评论围观删库后，这道门还开着
-- **[4月26日](zh/2026/2026-04-26.md)**: Wuphf 222点后，agent 改了哪页没人知道
-- **[4月25日](zh/2026/2026-04-25.md)**: 916点质量帖暗藏钩子黑洞
-- **[4月24日](zh/2026/2026-04-24.md)**: ActionPin两小时，756分漏洞还没完
-- **[4月23日](zh/2026/2026-04-23.md)**: 321分实证AI乱改，守门工具谁先到
-- **[4月22日](zh/2026/2026-04-22.md)**: 413点骂Anthropic砍Pro，KimiSwitch迁移窗口剩三天
-- **[4月21日](zh/2026/2026-04-21.md)**: 754分踢爆刷星黑市，工具窗口只剩两周
+- **[4月28日](zh/2026/2026-04-28.md)**: Dirac 300点证明，AI账单的幕还没拉开
+- **[4月27日](zh/2026/2026-04-27.md)**: 545分删库事故，守门工具还空着
+- **[4月26日](zh/2026/2026-04-26.md)**: Tolaria 拿 298 分，你的 agent wiki 谁来清理
+- **[4月25日](zh/2026/2026-04-25.md)**: Claude钩子78点失控，真相只有一行
+- **[4月24日](zh/2026/2026-04-24.md)**: Bitwarden遭入侵756分，ActionPin两小时能堵住缺口吗
+- **[4月23日](zh/2026/2026-04-23.md)**: 321分研究坐实AI乱改，谁先抢占管控工具
+- **[4月22日](zh/2026/2026-04-22.md)**: 420条评论正在等一个迁移工具
 
 [完整归档 →](zh/)
 
