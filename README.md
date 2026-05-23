@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 23
 
-> **build a crawler access ledger for website owners**
+> **build a source-credit report for copied pages, missing attribution, and blocking steps**
 
-**Why now:** 718 comments show site owners need crawler access terms they can publish before AI scraping fights harden
+**Why now:** 719 comments on AI plagiarism show publishers need proof of reuse before copied work drains attribution and traffic
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 23](en/2026/2026-05-23.md)**: 1,212 comments expose crawler payment terms before bots negotiate
-- **[May 22](en/2026/2026-05-22.md)**: 319 comments reject AI sludge; who owns the reply?
-- **[May 21](en/2026/2026-05-21.md)**: 3,800 repositories exposed editor-extension trust; what else can read code?
-- **[May 20](en/2026/2026-05-20.md)**: 317 packages spread 637 malicious versions into assistant hooks; next install?
-- **[May 19](en/2026/2026-05-19.md)**: 293 comments ask whether project files survive the canceled subscription
-- **[May 18](en/2026/2026-05-18.md)**: 98 percent fewer tokens sounds cheap until agents distrust search
-- **[May 17](en/2026/2026-05-17.md)**: 342 comments turn one UUID collision into signup risk
+- **[May 23](en/2026/2026-05-23.md)**: Source credit is now operational after 719 comments, but who proves reuse?
+- **[May 22](en/2026/2026-05-22.md)**: AI reply fatigue hit 319 comments, but who names the actual ask?
+- **[May 21](en/2026/2026-05-21.md)**: A 3,800-repository extension breach turned editor trust into budget risk?
+- **[May 20](en/2026/2026-05-20.md)**: 317 npm packages were compromised, and assistant hooks became the quiet door?
+- **[May 19](en/2026/2026-05-19.md)**: Files.md drew 293 comments, but can your work leave after cancellation?
+- **[May 18](en/2026/2026-05-18.md)**: Semble promised 98% fewer tokens, but will agents trust the search?
+- **[May 17](en/2026/2026-05-17.md)**: One real UUID collision drew 342 comments, so where else is unique fragile?
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月23日
 
-> **做一个爬虫访问账本**
+> **做一个原创内容署名证据报告**
 
-**为什么是现在:** 718 条讨论显示站长今天需要能公开给 AI 爬虫看的访问与付费条款
+**为什么是现在:** 719 条讨论把 AI 抄袭变成运营问题，出版者今天需要复用证据和署名清单
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月23日](zh/2026/2026-05-23.md)**: 1,212 条评论把 AI 爬虫付费条款推到台前，谁来收钱
-- **[5月22日](zh/2026/2026-05-22.md)**: 319 条讨论厌倦 AI 长文，谁来把话压短
-- **[5月21日](zh/2026/2026-05-21.md)**: 3,800 个仓库让编辑器扩展信任变成预算问题
-- **[5月20日](zh/2026/2026-05-20.md)**: 317 个包和 637 个恶意版本盯上助手启动 hooks
-- **[5月19日](zh/2026/2026-05-19.md)**: 293 条讨论追问订阅取消后项目还能不能带走
-- **[5月18日](zh/2026/2026-05-18.md)**: 98% token 节省听起来很香，但智能体会信吗
-- **[5月17日](zh/2026/2026-05-17.md)**: 342 条讨论把一次 UUID 碰撞变成注册和付款风险
+- **[5月23日](zh/2026/2026-05-23.md)**: 719 条讨论把 AI 抄袭推到运营层，谁能给出署名证据？
+- **[5月22日](zh/2026/2026-05-22.md)**: 319 条讨论厌倦 AI 长文，谁来逼出真正诉求？
+- **[5月21日](zh/2026/2026-05-21.md)**: 3,800 个仓库泄露后，编辑器扩展还能默认信任吗？
+- **[5月20日](zh/2026/2026-05-20.md)**: 317 个 npm 包被攻破，助手 hooks 会留下什么后门？
+- **[5月19日](zh/2026/2026-05-19.md)**: Files.md 引发 293 条讨论，取消订阅后工作还能带走吗？
+- **[5月18日](zh/2026/2026-05-18.md)**: Semble 声称少用 98% token，智能体真的会信它吗？
+- **[5月17日](zh/2026/2026-05-17.md)**: 342 条讨论来自一次 UUID 碰撞，还有哪些唯一假设会碎？
 
 [完整归档 →](zh/)
 
