@@ -7,51 +7,51 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · May 31
+## <a id="english"></a>💡 Today's build · Jun 1
 
-> **build a one-page MCP health receipt for AI tool connections**
+> **build a bot-gate compatibility receipt for SaaS signup and checkout**
 
-**Why now:** 371 comments show MCP reliability has become urgent enough to sell a one-page health receipt
+**Why now:** Cloudflare Turnstile drew 278 comments because privacy-browser users can be blocked before signup, checkout, or support sees them
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-31.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-31.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-01.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-01.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[May 31](en/2026/2026-05-31.md)**: 371 comments expose MCP reliability pain before teams ship agents
-- **[May 28](en/2026/2026-05-28.md)**: 897 comments hide a sharper failed-payment leak founders missed
-- **[May 27](en/2026/2026-05-27.md)**: 417 comments question whether AI coding really saves review time
-- **[May 26](en/2026/2026-05-26.md)**: 37 comments show Copilot file boundaries can still surprise admins
-- **[May 25](en/2026/2026-05-25.md)**: $0.435 per million input tokens turns model routing into invoice risk
+- **[Jun 1](en/2026/2026-06-01.md)**: 278 comments show bot gates blocking real buyers before signup
+- **[May 31](en/2026/2026-05-31.md)**: 371 comments expose MCP overhead before teams notice broken tools
+- **[May 28](en/2026/2026-05-28.md)**: 897 comments mask a quieter failed-payment leak founders can recover
+- **[May 27](en/2026/2026-05-27.md)**: 417 comments turn AI coding speed into review debt
+- **[May 26](en/2026/2026-05-26.md)**: 37 comments expose which private files AI can quote
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 5月31日
+## <a id="chinese"></a>💡 今日建议 · 6月1日
 
-> **做一个 MCP 工具连接健康回执**
+> **做一个SaaS门禁兼容性回执**
 
-**为什么是现在:** 371 条讨论说明 MCP 可靠性今天已经足够紧，适合做一页健康回执
+**为什么是现在:** Cloudflare Turnstile 引发 278 条讨论，说明隐私浏览器用户可能在注册和付款前就被挡住
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-31.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-31.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-01.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-01.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月31日](zh/2026/2026-05-31.md)**: 371 条讨论把 MCP 可靠性推到上线前台
-- **[5月28日](zh/2026/2026-05-28.md)**: 897 条讨论之外，失败付款漏损更值得追问
-- **[5月27日](zh/2026/2026-05-27.md)**: 417 条讨论追问 AI 编程到底省了谁的时间
-- **[5月26日](zh/2026/2026-05-26.md)**: 37 条评论暴露 Copilot 私有文件边界的盲区
-- **[5月25日](zh/2026/2026-05-25.md)**: $0.435 每百万输入 tokens 让模型路由变成账单风险
+- **[6月1日](zh/2026/2026-06-01.md)**: Cloudflare 278 条讨论暴露注册前的真人流失
+- **[5月31日](zh/2026/2026-05-31.md)**: MCP 371 条讨论暴露工具连接还没开工就耗损
+- **[5月28日](zh/2026/2026-05-28.md)**: 897 条讨论之外，失败付款漏损更像真钱机会
+- **[5月27日](zh/2026/2026-05-27.md)**: 417 条讨论把 AI 编程速度变成评审债
+- **[5月26日](zh/2026/2026-05-26.md)**: 37 条评论追问 AI 同事能引用哪些私有文件
 
 [完整归档 →](zh/)
 
