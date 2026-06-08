@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Jun 7
+## <a id="english"></a>💡 Today's build · Jun 8
 
-> **build a one-page agent permission map for support and ecommerce teams**
+> **build a private Side Project Sale Room**
 
-**Why now:** Meta's 180 comments show support bots now need visible permissions before they change real accounts
+**Why now:** 872 comments on AI-career trust make buyer-readable proof urgent before founders hand over private repos
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-07.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-07.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-06-08.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-06-08.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Jun 7](en/2026/2026-06-07.md)**: 180 comments expose support-bot permissions before agents touch accounts
-- **[Jun 6](en/2026/2026-06-06.md)**: 521 comments made PR trust the maintainer problem
-- **[Jun 5](en/2026/2026-06-05.md)**: 1,500 dollars spent testing AI code asks what changed
-- **[Jun 4](en/2026/2026-06-04.md)**: 1,500 dollars per month cap turns AI seats into budget risk
-- **[Jun 3](en/2026/2026-06-03.md)**: 251 comments on job-thread abuse point to fake audiences
-- **[Jun 2](en/2026/2026-06-02.md)**: 323 comments show account recovery can become takeover infrastructure
-- **[Jun 1](en/2026/2026-06-01.md)**: 278 comments reveal anti-bot gates can block real users
+- **[Jun 8](en/2026/2026-06-08.md)**: 872 comments turned AI-career anxiety into sale-room proof, but will buyers trust it?
+- **[Jun 7](en/2026/2026-06-07.md)**: 224 Product Hunt votes put store agents near real permissions, what breaks first?
+- **[Jun 6](en/2026/2026-06-06.md)**: 521 comments made pull requests a trust problem, who owns the diff?
+- **[Jun 5](en/2026/2026-06-05.md)**: $1,500 hacking test made AI-generated apps need receipts, who checks first?
+- **[Jun 4](en/2026/2026-06-04.md)**: Uber's $1,500/month AI cap exposed assistant budgets, who stops the invoice?
+- **[Jun 3](en/2026/2026-06-03.md)**: 1,015 comments showed outreach fatigue beating AI market stories, can founders prove demand?
+- **[Jun 2](en/2026/2026-06-02.md)**: 323 comments turned account recovery into an AI support risk, who can reset what?
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 6月7日
+## <a id="chinese"></a>💡 今日建议 · 6月8日
 
-> **做一个客服与电商智能体权限地图**
+> **做一个副业项目出售证明页**
 
-**为什么是现在:** 180 条讨论说明客服机器人改账号前需要一张可见权限图
+**为什么是现在:** 872 条讨论把 AI 工程信任推到台前，今天适合做副业项目出售证明页
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-07.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-07.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-06-08.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-06-08.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[6月7日](zh/2026/2026-06-07.md)**: 180 条讨论把客服机器人权限变成今天的问题
-- **[6月6日](zh/2026/2026-06-06.md)**: 521 条讨论让 PR 信任成了维护者难题
-- **[6月5日](zh/2026/2026-06-05.md)**: 1,500 美元漏洞测试追问 AI 代码改了什么
-- **[6月4日](zh/2026/2026-06-04.md)**: 1,500 美元每月上限让 AI 席位变成预算风险
-- **[6月3日](zh/2026/2026-06-03.md)**: 251 条讨论把冷触达噪音变成受众疑问
-- **[6月2日](zh/2026/2026-06-02.md)**: 323 条讨论说明账号恢复也能变成接管通道
-- **[6月1日](zh/2026/2026-06-01.md)**: 278 条讨论显示反机器人门禁可能挡住真用户
+- **[6月8日](zh/2026/2026-06-08.md)**: 872 条讨论把 AI 工程信任推到交易前台，买家会信什么？
+- **[6月7日](zh/2026/2026-06-07.md)**: 224 次关注让店铺智能体接近真实权限，谁来兜底？
+- **[6月6日](zh/2026/2026-06-06.md)**: 521 条讨论让 pull request 变成信任问题，谁对 diff 负责？
+- **[6月5日](zh/2026/2026-06-05.md)**: $1,500 攻防测试让 AI 生成应用需要证据，谁先检查？
+- **[6月4日](zh/2026/2026-06-04.md)**: Uber 的 $1,500/month 上限把 AI 账单推给经理，谁该停？
+- **[6月3日](zh/2026/2026-06-03.md)**: 1,015 条评论说明冷触达反噬，创始人还能证明需求吗？
+- **[6月2日](zh/2026/2026-06-02.md)**: 323 条讨论把账号恢复变成 AI 客服风险，谁能重置什么？
 
 [完整归档 →](zh/)
 
