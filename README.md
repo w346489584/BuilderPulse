@@ -7,47 +7,49 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Jul 11
+## <a id="english"></a>💡 Today's build · Jul 12
 
-> **build a subscription cancellation flow checker with timestamped proof reports**
+> **build a deployment-readiness report for Ant projects**
 
-**Why now:** A proposed NYC subscription ban drew 221 comments, making cancellation proof urgent for small SaaS owners
+**Why now:** Ant’s 76 comments included explicit demand for deployment help, making today ideal for a focused readiness report
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-07-11.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-07-11.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-07-12.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-07-12.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Jul 11](en/2026/2026-07-11.md)**: 221 comments expose a new subscription risk; can your cancellation flow prove compliance?
-- **[Jul 10](en/2026/2026-07-10.md)**: 599 comments put private messaging rules in motion; who tracks the next change?
-- **[Jul 9](en/2026/2026-07-09.md)**: 10,274 stars spotlight AI code risk; what catches bad diffs before review?
+- **[Jul 12](en/2026/2026-07-12.md)**: 76 comments exposed Ant deployment anxiety—who will make production boring?
+- **[Jul 11](en/2026/2026-07-11.md)**: 221 comments put cancellation friction on notice—can small SaaS prove compliance?
+- **[Jul 10](en/2026/2026-07-10.md)**: 599 comments exposed a private-messaging blind spot—who alerts owners first?
+- **[Jul 9](en/2026/2026-07-09.md)**: 10,274 stars spotlighted AI code risk—who checks it before review?
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 7月11日
+## <a id="chinese"></a>💡 今日建议 · 7月12日
 
-> **做一个生成时间戳证明报告的订阅取消流程检查器**
+> **做一个 Ant 项目部署就绪度报告**
 
-**为什么是现在:** 纽约订阅新规提案引发221条讨论，小型SaaS现在急需自证取消流程合规
+**为什么是现在:** Ant 引发 76 条评论并出现明确的部署服务需求，今天正适合做部署就绪度报告
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-07-11.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-07-11.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-07-12.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-07-12.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[7月11日](zh/2026/2026-07-11.md)**: 221条讨论暴露订阅新风险，你的取消流程能自证合规吗？
-- **[7月10日](zh/2026/2026-07-10.md)**: 599条讨论推动隐私规则变化，谁来追踪下一次变动？
-- **[7月9日](zh/2026/2026-07-09.md)**: 新增10,274 stars聚焦AI代码风险，谁在评审前拦住问题？
+- **[7月12日](zh/2026/2026-07-12.md)**: 76 条评论暴露 Ant 部署焦虑，谁能让上线不再提心吊胆？
+- **[7月11日](zh/2026/2026-07-11.md)**: 221 条讨论让取消订阅成为风险，小型 SaaS 如何自证清白？
+- **[7月10日](zh/2026/2026-07-10.md)**: 599 条讨论暴露私信政策盲区，谁先提醒小公司老板？
+- **[7月9日](zh/2026/2026-07-09.md)**: 10,274 stars 凸显 AI 代码风险，谁来守住审查前一关？
 
 [完整归档 →](zh/)
 
