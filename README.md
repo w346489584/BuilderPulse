@@ -7,49 +7,51 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · Jul 12
+## <a id="english"></a>💡 Today's build · Jul 13
 
-> **build a deployment-readiness report for Ant projects**
+> **build a local AI coding cost and repository-transfer report**
 
-**Why now:** Ant’s 76 comments included explicit demand for deployment help, making today ideal for a focused readiness report
+**Why now:** Two tool-transparency debates drew 446 comments today, exposing demand for pre-session cost and file-transfer receipts
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-07-12.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-07-12.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-07-13.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-07-13.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[Jul 12](en/2026/2026-07-12.md)**: 76 comments exposed Ant deployment anxiety—who will make production boring?
-- **[Jul 11](en/2026/2026-07-11.md)**: 221 comments put cancellation friction on notice—can small SaaS prove compliance?
-- **[Jul 10](en/2026/2026-07-10.md)**: 599 comments exposed a private-messaging blind spot—who alerts owners first?
-- **[Jul 9](en/2026/2026-07-09.md)**: 10,274 stars spotlighted AI code risk—who checks it before review?
+- **[Jul 13](en/2026/2026-07-13.md)**: 446 comments exposed hidden AI coding costs and file transfers—what leaves first?
+- **[Jul 12](en/2026/2026-07-12.md)**: Ant drew 76 comments and a deployment request—who will remove the anxiety?
+- **[Jul 11](en/2026/2026-07-11.md)**: Deceptive subscription rules drew 221 comments—is your cancellation path defensible?
+- **[Jul 10](en/2026/2026-07-10.md)**: A 599-comment privacy debate made policy changes operational—who translates them?
+- **[Jul 9](en/2026/2026-07-09.md)**: AI code verification drew 52 comments—but can a hook catch the lies?
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 7月12日
+## <a id="chinese"></a>💡 今日建议 · 7月13日
 
-> **做一个 Ant 项目部署就绪度报告**
+> **做一个本地AI编码成本与仓库文件传输报告**
 
-**为什么是现在:** Ant 引发 76 条评论并出现明确的部署服务需求，今天正适合做部署就绪度报告
+**为什么是现在:** 今天两场工具透明度争议合计引发446条评论，正适合做会话前成本与文件传输报告
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-07-12.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-07-12.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-07-13.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-07-13.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[7月12日](zh/2026/2026-07-12.md)**: 76 条评论暴露 Ant 部署焦虑，谁能让上线不再提心吊胆？
-- **[7月11日](zh/2026/2026-07-11.md)**: 221 条讨论让取消订阅成为风险，小型 SaaS 如何自证清白？
-- **[7月10日](zh/2026/2026-07-10.md)**: 599 条讨论暴露私信政策盲区，谁先提醒小公司老板？
-- **[7月9日](zh/2026/2026-07-09.md)**: 10,274 stars 凸显 AI 代码风险，谁来守住审查前一关？
+- **[7月13日](zh/2026/2026-07-13.md)**: 446条评论揭开AI编码的启动成本与文件传输，最先泄露的是什么
+- **[7月12日](zh/2026/2026-07-12.md)**: Ant引发76条评论和明确部署需求，谁来消除上线焦虑
+- **[7月11日](zh/2026/2026-07-11.md)**: 欺骗性订阅禁令引发221条讨论，你的取消流程经得起检查吗
+- **[7月10日](zh/2026/2026-07-10.md)**: 599条评论让隐私政策变化成为运营难题，谁来翻译
+- **[7月9日](zh/2026/2026-07-09.md)**: AI代码验证引发52条评论，一条钩子真能抓住幻觉吗
 
 [完整归档 →](zh/)
 
